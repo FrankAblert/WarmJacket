@@ -1,5 +1,5 @@
 # WarmJacket
-一个简介、清新、实用的菜谱App （API来自MobApi）
+一个简洁、清新、实用的菜谱App （API来自MobApi）
 
 
 # 应用截图：
